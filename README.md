@@ -2,7 +2,7 @@
 Simple game, using the command console.
 
 
-![Image text](https://github.com/Sebastian-Sanchez-Bentolila/hangman-game/blob/master/Iconos/Ahorcado.ico)
+![Image text](https://github.com/Sebastian-Sanchez-Bentolila/Hanged-game/blob/master/icons/hanged.ico)
 
 ### Contents
 
